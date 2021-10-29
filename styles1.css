@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(27, 65, 100);
+    color: white;
+}
+header{
+    text-align: center;
+    font-size: 35px;
+}
+.mayssam h3{
+    margin-left: 50px;color: yellow;
+font-size: 30px;
+}
+.mayssam ul{
+    font-size: 20px;
+    margin-left: 60px;
+}
+.mayssam li{
+    margin-bottom: 10px;
+}
+.img1{
+    border-radius: 50%;
+    width: 40%;
+    height: 40%;
+}
+.list1 {
+    font-size: 30px;
+    color: rgb(56, 223, 181);
+}
+footer a{
+    color: yellow;
+}
