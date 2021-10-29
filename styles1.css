@@ -14,14 +14,17 @@ font-size: 30px;
     font-size: 20px;
     margin-left: 60px;
 }
+
 .mayssam li{
     margin-bottom: 10px;
 }
+
 .img1{
     border-radius: 50%;
     width: 40%;
     height: 40%;
 }
+
 .list1 {
     font-size: 30px;
     color: rgb(56, 223, 181);
